@@ -1,0 +1,13 @@
+---
+title: "Researcher's notes"
+subtitle: "Gabriel Fuentes"
+date: "2023/01/22"
+date-modified: "`r Sys.Date()`"
+output: html
+lang: es
+embed-resources: true
+---
+
+- You'll need to research more of the forex market. Let's start [here](https://en.wikipedia.org/wiki/Foreign_exchange_market).
+
+
