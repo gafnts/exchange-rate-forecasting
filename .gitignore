@@ -1,3 +1,4 @@
+# R and macOS
 .Rproj.user
 .Rhistory
 .RData
@@ -5,3 +6,6 @@
 .Rdata
 .httr-oauth
 .DS_Store
+
+# Directories
+research/
